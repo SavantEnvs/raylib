@@ -1,0 +1,1 @@
+.hidden/../a/b/c.tar.gz\win\path.txt

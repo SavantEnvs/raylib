@@ -1,0 +1,31 @@
+png.size=2x2 format=7
+png.pixel[0,0]=255,0,0,255
+png.pixel[1,0]=0,255,0,255
+png.pixel[0,1]=0,0,255,255
+png.pixel[1,1]=255,255,255,128
+png.flipped[0,0]=0,0,255,255
+png.roundtrip[1,0]=255,255,255,128
+wav.frames=4 rate=8000 bits=16 channels=1
+wav.samples=0.0000,0.5000,-0.5000,1.0000
+obj.meshes=1 vertices=3 triangles=1
+obj.v1=1.0,0.0,0.0 v2=0.0,2.0,0.0
+obj.bbox.max=1.0,2.0,0.0
+text.insert=heXYllo
+text.replace=a++b++c
+text.subtext=ayl
+text.upper=RAY LIB
+text.snake=hello_world_foo
+text.int=1234 float=-3.25
+text.split=3:one|two|three
+text.find=3
+path.dir=/usr/local/lib
+path.prev=/usr/local
+path.name=libray.a ext=.a
+utf8.codepoint=U+20AC size=3
+utf8.encode=f09f9880 size=4
+crc32=3610a686
+sha256=ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad
+md5=98500190b04fd23c7d3f96d6727fe128
+base64.decode=hello world len=11
+base64.encode=cmF5bGliIQ==
+deflate.roundtrip=1 len=256 smaller=1
