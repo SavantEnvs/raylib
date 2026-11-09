@@ -1,0 +1,1 @@
+<tag>inner</tag> [x] begin...end begin...end
